@@ -24,7 +24,7 @@ try {
             ':name' => $name,
             ':email' => $email,
             ':phone' => $phone,
-            ':membership' => $selectcourse,
+            ':select_course' => $select_course,
             ':address' => $address
         ]);
 
